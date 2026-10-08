@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-nyakb3.johnsonboibeats.com/sitemap.xml
